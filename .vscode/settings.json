@@ -6,7 +6,6 @@
       "port": 5432,
       "driver": "PostgreSQL",
       "name": "wave",
-      "password": "J@S4gbby$cPKNqX",
       "database": "postgres",
       "username": "postgres.fwnrtufzhuurrhpcruxb"
     },
