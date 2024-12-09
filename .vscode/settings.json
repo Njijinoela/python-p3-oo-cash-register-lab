@@ -1,0 +1,21 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "server": "aws-0-ap-south-1.pooler.supabase.com",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "wave",
+      "password": "J@S4gbby$cPKNqX",
+      "database": "postgres",
+      "username": "postgres.fwnrtufzhuurrhpcruxb"
+    },
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "Noela",
+      "database": "/home/njiji/Developments/code/phase3/databases/njiji.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
